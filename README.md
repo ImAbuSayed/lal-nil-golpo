@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lal-nil-golpo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Lal Nil Golpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lal-nil-golpo/) |
+| **Get License** | [Secure Licensing Rights for Lal Nil Golpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lal-nil-golpo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a8d9b31dc500deecbedd024b390da3c76fd4ea303730209d5b0cda9d04ad0424` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

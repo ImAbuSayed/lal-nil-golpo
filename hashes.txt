@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Lal Nil Golpo
+
+This log tracks the cryptographic history and versioning for the song **Lal Nil Golpo** (lal-nil-golpo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T00:59:50.588226 | `v1` | `a8d9b31dc500deecbedd024b390da3c76fd4ea303730209d5b0cda9d04ad0424` | `dbea39429a336cefeae76ff2b0f7cf316da65fe26c638f96cc732bcb6b7bfbe4` | `2026-05-28_lal-nil-golpo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
