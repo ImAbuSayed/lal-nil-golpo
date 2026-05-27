@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lal-nil-golpo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Lal Nil Golpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lal-nil-golpo/) |
+| **Get License** | [License this song: Lal Nil Golpo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lal-nil-golpo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> তোমার চোখের নেশায় আমি দিশেহারা
+> অন্ধকারে তুমি আমার রাতের তারা
+> কাছে এসো আজ এই মাতাল সমীরণে
+> আগুন জ্বলে আমার এই অবুঝ মনে
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
